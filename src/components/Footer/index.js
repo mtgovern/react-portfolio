@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>React Portfolio</span>
+      <span>Maria McGovern</span>
     </footer>
   );
 }
