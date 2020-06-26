@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import Col from "../Col";
+
 function PortfolioCard(props) {
   return (
     <Col size="md-4">

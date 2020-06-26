@@ -8,6 +8,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <Link className="navbar-brand" to="/">
         Maria McGovern
+        
       </Link>
       <div>
         <ul className="navbar-nav">
