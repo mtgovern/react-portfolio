@@ -19,15 +19,7 @@ function Contact() {
           </Col> */}
           <Col size="md-12">
             <p>
-            Maria McGovern
-            <br/>
-            mtgovern@me.com
-            <br/>
-            <a href="https://www.linkedin.com/in/mariamcgovern/">LinkedIn</a>
-            <br/>
-            <a href="/images/Maria_McGovern_Resume_2.pdf" alt="resume">Resume</a>
-            <br/>
-            <a href="https://www.github.com/mtgovern/">Github</a>
+            Maria McGovern • mtgovern@me.com • <a href="https://www.linkedin.com/in/mariamcgovern/">LinkedIn</a> • <a href="/images/Maria_McGovern_Resume_2.pdf" alt="resume">Resume</a> • <a href="https://www.github.com/mtgovern/">Github</a>
             </p>
           </Col>
         </Row>
