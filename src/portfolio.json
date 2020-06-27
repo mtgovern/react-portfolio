@@ -4,7 +4,7 @@
     "name": "Refactoring Project",
     "image": "images/refactoring.png",
   "assignment": "Week One",
-    "url": "https://amsgwbootcamp.github.io/week_one_homework/index.html"
+    "url": "https://mtgovern.github.io/"
   },
   {
   "id": 2,
@@ -25,7 +25,7 @@
     "name": "Daily Planner",
     "image": "images/dailyplanner.png",
     "assignment": "Week Four",
-    "url": "https://amsgwbootcamp.github.io/DailyPlanner/index.html"
+    "url": "https://mtgovern.github.io/scheduler/"
   },
   {
     "id": 5,
@@ -46,21 +46,21 @@
     "name": "Readme File Generator",
     "image": "images/readme.PNG",
     "assignment": "Week Seven",
-    "url": "https://github.com/amsgwbootcamp/ReadmeGenerator"
+    "url": "https://github.com/mtgovern/readme-generator/blob/master/index.js"
   },
   {
     "id": 8,
     "name": "Team Profile Generator",
     "image": "images/teamgenerator.png",
     "assignment": "Week Eight",
-    "url": "https://github.com/amsgwbootcamp/TeamGenerator"
+    "url": "https://media.giphy.com/media/mCUrS8R9zvKi6zLJqo/giphy.gif"
   },
   {
     "id": 9,
     "name": "Note Taker",
     "image": "images/notetaker.png",
     "assignment": "Week Nine",
-    "url": "https://hidden-woodland-55628.herokuapp.com/"
+    "url": "https://secret-coast-70413.herokuapp.com/notes"
   },
   {
     "id": 10,
