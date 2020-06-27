@@ -1,61 +1,39 @@
-import React, { Component } from "react";
-// import API from "../utils/API";
+import React from "react";
 import Container from "../components/Container";
-// import SearchForm from "../components/SearchForm";
-// import SearchResults from "../components/SearchResults";
-// import Alert from "../components/Alert";
+import Row from "../components/Row";
+import Col from "../components/Col";
 
-class Contact extends Component {
-  state = {
-    search: "",
-    breeds: [],
-    results: [],
-    error: ""
-  };
 
-  // When the component mounts, get a list of all available base breeds and update this.state.breeds
-  componentDidMount() {
-    // API.getBaseBreedsList()
-    //   .then(res => this.setState({ breeds: res.data.message }))
-    //   .catch(err => console.log(err));
-  }
-
-  handleInputChange = event => {
-    this.setState({ search: event.target.value });
-  };
-
-  // handleFormSubmit = event => {
-  //   event.preventDefault();
-  //   API.getDogsOfBreed(this.state.search)
-  //     .then(res => {
-  //       if (res.data.status === "error") {
-  //         throw new Error(res.data.message);
-  //       }
-  //       this.setState({ results: res.data.message, error: "" });
-  //     })
-  //     .catch(err => this.setState({ error: err.message }));
-  // };
-  render() {
-    return (
-      <div>
-        <Container style={{ minHeight: "80%" }}>
-          <h1 className="text-center">Maria McGovern</h1>
-          {/* <Alert
-            type="danger"
-            style={{ opacity: this.state.error ? 1 : 0, marginBottom: 10 }}
-          >
-            {this.state.error}
-          </Alert> */}
-          {/* <SearchForm
-            handleFormSubmit={this.handleFormSubmit}
-            handleInputChange={this.handleInputChange}
-            breeds={this.state.breeds}
-          /> */}
-          {/* <SearchResults results={this.state.results} /> */}
-        </Container>
-      </div>
-    );
-  }
+function Contact() {
+  return (
+    <div>
+      <Container style={{ marginTop: 30 }}>
+        <Row>
+          <Col size="md-12">
+            <h1>Contact Me!</h1>
+          </Col>
+        </Row>
+        <Row>
+        {/* <Col size="md-3">
+            <img alt="Maria McGovern" src="images/maria.jpg" className="img-fluid" />
+          </Col> */}
+          <Col size="md-12">
+            <p>
+            Maria McGovern
+            <br/>
+            mtgovern@me.com
+            <br/>
+            <a href="https://www.linkedin.com/in/mariamcgovern/">LinkedIn</a>
+            <br/>
+            <a href="/images/Maria_McGovern_Resume_2.pdf" alt="resume">Resume</a>
+            <br/>
+            <a href="https://www.github.com/mtgovern/">Github</a>
+            </p>
+          </Col>
+        </Row>
+      </Container>
+    </div>
+  );
 }
 
 export default Contact;
