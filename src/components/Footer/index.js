@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>Maria McGovern</span>
+      {/* <span>Maria McGovern</span> */}
     </footer>
   );
 }

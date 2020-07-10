@@ -10,7 +10,7 @@ function Contact() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>Contact Me!</h1>
+            {/* <h1>Contact Me!</h1> */}
           </Col>
         </Row>
         <Row>
