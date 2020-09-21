@@ -1,40 +1,5 @@
 [
   {
-  "id": 1,
-    "name": "Refactoring Project",
-    "image": "images/refactoring.png",
-  "assignment": "Week One",
-    "url": "https://mtgovern.github.io/"
-  },
-  {
-  "id": 2,
-  "name": "Password Generator Project",
-  "image": "images/password-generator.png",
-  "assignment": "Week Two",
-  "url": "https://mtgovern.github.io/password-generator/" 
-  },
-  {
-    "id": 3,
-    "name": "Code Quiz",
-    "image": "images/code-quiz.png",
-    "assignment": "Week Three",
-    "url": "https://mtgovern.github.io/code-quiz/"
-  },
-  {
-    "id": 4,
-    "name": "Daily Planner",
-    "image": "images/dailyplanner.png",
-    "assignment": "Week Four",
-    "url": "https://mtgovern.github.io/scheduler/"
-  },
-  {
-    "id": 5,
-    "name": "Weather Dashboard",
-    "image": "images/weather-dashboard.png",
-    "assignment": "Week Five",
-    "url": "https://mtgovern.github.io/weather-dashboard/"
-  },
-  {
     "id": 6,
     "name": "Project One",
     "image": "images/night-in.png",
@@ -42,45 +7,10 @@
     "url": "https://mtgovern.github.io/group7/"
   },
   {
-    "id": 7,
-    "name": "Readme File Generator",
-    "image": "images/readme.PNG",
-    "assignment": "Week Seven",
-    "url": "https://github.com/mtgovern/readme-generator/blob/master/index.js"
-  },
-  {
-    "id": 8,
-    "name": "Team Profile Generator",
-    "image": "images/teamgenerator.png",
-    "assignment": "Week Eight",
-    "url": "https://media.giphy.com/media/mCUrS8R9zvKi6zLJqo/giphy.gif"
-  },
-  {
-    "id": 9,
-    "name": "Note Taker",
-    "image": "images/notetaker.png",
-    "assignment": "Week Nine",
-    "url": "https://secret-coast-70413.herokuapp.com/notes"
-  },
-  {
-    "id": 10,
-    "name": "Eat Da Burger",
-    "image": "images/burger.png",
-    "assignment": "Week Ten",
-    "url": "https://burger-mm.herokuapp.com/"
-  },
-  {
     "id": 11,
     "name": "Project Two",
     "image": "images/travel-wishlist.png",
     "assignment": "Week Eleven",
     "url": "https://pure-mountain-23490.herokuapp.com/"
-  },
-  {
-    "id": 12,
-    "name": "Google Books",
-    "image": "images/google-books.png",
-    "assignment": "Week Twenty-One",
-    "url": "https://mtgovern-reactgoogleapps.herokuapp.com/"
   }
 ]
